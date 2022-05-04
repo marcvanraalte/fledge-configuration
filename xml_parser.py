@@ -108,7 +108,7 @@ def xmltoFledge(valuesLists):
 	ServIedModels = valuesLists[1]
 	ServerIp = valuesLists[2]
 	
-	CDCs = ['A.phsB','PPV.phsBC','Totw']
+	CDCs = ['A.phsB','PPV.phsBC','TotW']
 	dattribs = ['instCval.mag.f','cVal.mag.f','mag.f']
 	
 	for cdc in CDCs:
